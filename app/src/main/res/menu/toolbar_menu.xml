@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/miBluetooth"
+        android:title="Bluetooth"
+        android:icon="@drawable/ic_bluetooth_foreground"
+        app:showAsAction="always"/>
+    <item
+        android:id="@+id/miSettings"
+        android:title="Settings"
+        android:icon="@drawable/ic_settings_foreground"
+        app:showAsAction="always"/>
+    <item
+        android:id="@+id/miFavorites"
+        android:title="Favorites"
+        android:icon="@drawable/ic_favorites_foreground"
+        app:showAsAction="ifRoom"/>
+    <item
+        android:id="@+id/miFeedback"
+        android:title="Feedback"
+        app:showAsAction="never"/>
+    <item
+        android:id="@+id/miClose"
+        android:title="Close"
+        app:showAsAction="never"/>
+
+</menu>
