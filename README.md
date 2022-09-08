@@ -24,16 +24,16 @@ The layout is shown below:
 ## Connect Page
 The layout is shown below:
 <p align="center">
-<img src="https://github.com/Indir99/Android-App-for-RC-car-control/blob/master/images/Connect-page.jpg?raw=true" width="300" height="600" />
+<img src="https://github.com/Indir99/Android-App-for-RC-car-control/blob/master/images/Conncect-page.jpg?raw=true" width="300" height="600" />
 </[>
 
 ## Control Page
 The layout is shown below:
 <p align="center">
-<img src="https://github.com/Indir99/Android-App-for-RC-car-control/blob/master/images/Control-page.jpg?raw=true" width="300" height="600" />
+<img src="https://github.com/Indir99/Android-App-for-RC-car-control/blob/master/images/Control-page.jpg?raw=true" width="600" height="300" />
 </[>
 
 ## SQLite Database
 <p align="center">
-<img src="https://github.com/Indir99/Android-App-for-RC-car-control/blob/master/images/sqlite-db.png?raw=true" width="300" height="600" />
+<img src="https://github.com/Indir99/Android-App-for-RC-car-control/blob/master/images/sqlite-db.png?raw=true" width="600" height="300" />
 </[>
