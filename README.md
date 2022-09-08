@@ -62,5 +62,5 @@ To access this SQLite database we used: DB Browser for SQLite.
 Feel free to contact me for a detailed explanation. Also, in the following github repository you can see how the RC car is implemented:
 
 ```
-link:
+https://github.com/Indir99/Remote-Control-car
 ```
