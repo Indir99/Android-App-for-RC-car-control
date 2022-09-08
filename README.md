@@ -12,9 +12,9 @@ Application has following layouts:
 ## Login Page
 The layout is shown below:
 <p align="center">
-<img src="https://github.com/Indir99/Android-App-for-RC-car-control
-/blob/master/images/Login-page.jpg" width="300" height="600" />
+<img src="https://github.com/Indir99/Android-App-for-RC-car-control/blob/master/images/Login-page.jpg?raw=true" width="300" height="600" />
 </[>
+
 ## Register Page
 The layout is shown below:
 
